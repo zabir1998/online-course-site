@@ -13,7 +13,7 @@
 1. React js
 2. Material UI
 3. React Bootstrap
-4.JavaScript
+4. JavaScript
 5. ES6
 6. etc.
 
